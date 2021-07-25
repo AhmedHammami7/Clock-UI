@@ -1,0 +1,8 @@
+* CLOCK UI
+
+This is my github account:
+https://github.com/AhmedHammami7
+
+Months abbreviations:
+	'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+	
